@@ -1,0 +1,2 @@
+# Coeus
+Quantitative investment
